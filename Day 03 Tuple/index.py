@@ -24,9 +24,9 @@
 
 # 4 . min(tuple) - find minimum value
 # 5 . max(tuple) - find maximum value
-# my_tuple =(5,2,3,2,4,10,2,5)
+my_tuple =(5,2,3,2,4,10,2,5)
 # print(min(my_tuple))  # shortest value is minimum
-# print(max(my_tuple))  # largest value is minimum
+print(max(my_tuple))  # largest value is minimum
 
 
 

@@ -49,9 +49,9 @@
 # 3. Assignment Operators
 
 # x = 10 
-# x += 5
-# x -= 2
-# x *= 2
+# # x += 5
+# # x -= 2
+# # x *= 2
 # x /= 2
 # print(x)
 
@@ -67,11 +67,12 @@
 # NOT
 
 # 5.MemberShip Operators=>True or false
-# in
+# #in
 # text = "python"
 # print( "py" in text)
+# print( "e" in text)
 # fruit =["apple" ,"orange","kiwi","banana"]
-# print("kiwi" in fruit)
+# # print("kiwi" in fruit)
 # print("mango" in fruit)
 
 # not in
@@ -86,8 +87,8 @@
 # print[10 == 20]
 # print( a is b) 
 
-# # a = [10 , 20]
-# b = a
+a = [10 , 20]
+b = a
 # print(a == b)
 # print( a is b)   # ==checking values
 # is not
