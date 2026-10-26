@@ -15,9 +15,9 @@
 # print(my_set)
 
 #2 ) remove(item) -Remove element (error if not found)
-#my_set = {1, 2, 3, 4, 5}
-#my_set.remove(500)
-#print(my_set)
+# my_set = {1, 2, 3, 4, 5}
+# my_set.remove(500)
+# print(my_set)
 
 
 # 3 ) discard(item) -Remove element (no error)

@@ -7,9 +7,9 @@
 
 #Subtraction
 
-#a=10
-#b=5
-#print(a - b)
+# a=10
+# b=5
+# print(a - b)
 
 #Multiplication
 # a = 10
@@ -18,8 +18,8 @@
 
 # Divison
 # a=10
-#b=5
-#print(a * b)
+# b=5
+# print(a / b)
 
 # Modulus(remainder)
 # a = 10
@@ -59,7 +59,7 @@
 # 4. Logical Operators
 #and
 
-# print( 10 == 5 and 10 ==15)
+# print( 10 == 10 and 10 == 5)
 # print( 10 == 5 and 10 ==15)
 # print( 10 == 5 and 10 ==10)
 #OR
@@ -72,7 +72,7 @@
 # print( "py" in text)
 # fruit =["apple" ,"orange","kiwi","banana"]
 # print("kiwi" in fruit)
-#print("mango" in fruits)
+# print("mango" in fruit)
 
 # not in
 
@@ -86,7 +86,7 @@
 # print[10 == 20]
 # print( a is b) 
 
-# a = [10 , 20]
+# # a = [10 , 20]
 # b = a
 # print(a == b)
 # print( a is b)   # ==checking values
